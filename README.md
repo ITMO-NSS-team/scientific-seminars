@@ -1,6 +1,6 @@
 # Научные семинары NSS Lab
 
-Материалы научных семинаров (NSS Lab)[https://itmo-nss-team.github.io/], ИТМО.
+Материалы научных семинаров (NSS Lab)[https://itmo-nss-team.github.io], ИТМО.
 
 ## List of seminars:
 

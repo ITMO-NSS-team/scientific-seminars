@@ -1,6 +1,6 @@
 # [Open-source-ops (by NSS Lab)](https://aimclub.github.io/open-source-ops/)
 
-[![Acknowledgement ITMO](https://github.com/aimclub/open-source-ops/tree/master/badges/ITMO_badge_rus.svg)](https://itmo.ru/)
+[![Acknowledgement ITMO](https://github.com/ITMO-NSS-team/open-source-ops/raw/master/badges/ITMO_badge_rus.svg)](https://itmo.ru/)
 
 # Научные семинары NSS Lab
 

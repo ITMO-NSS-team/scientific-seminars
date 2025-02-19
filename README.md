@@ -14,3 +14,5 @@
 | №5  | 18-04-2024  | [Иов Илларион](https://github.com/AngrySigma) | Оптимизация стратегий подбора признаков в задачах AutoML с помощью LLM | [pdf](./seminar5_llm_fe_18042024/iov_seminar.pdf) |
 | №6  | 18-07-2024  | Николай Никитин, Юлия Борисова, Иван Лобанов | Про поездки на конференции Highload++, IEEE CEC и форум Архипелаг-2024 | - |
 | №7  | 05-09-2024  | Юрий Каминский, Алина Жидковская, Елизавета Луценко, Станислав Чумаков | Технические аспекты применения LLM-агентов для прикладных задач  | - |
+| №8  | 13-02-2025  | [Лунев Артем](https://github.com/artemlunev2000) | Neuron-Level Architecture Search for Efficient Model Design | [pdf](./seminar8_nas/lunev_seminar.pdf)
+
